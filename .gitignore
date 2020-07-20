@@ -1,0 +1,13 @@
+.idea/
+*.pyc
+*.csv
+*.pickle
+*.xml
+*.pt
+*.bin
+*.txt
+*.pkl
+model/TextCNN/runs/MAXTIME/
+model/TextCNN-tf2.0/runs/MAXTIME/
+model/SVM/model/
+model/DecAtt/data/wiki.en.vec
